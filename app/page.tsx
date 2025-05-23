@@ -3,7 +3,7 @@ import { User } from 'lucide-react'
 export default function page() {
   return (
     <div>
-      <div className="flex bg-gray-400 justify-end">
+      <div className="flex bg-gray-200 px-20 py-5 justify-between ">
         <div>Xiro-Real-State</div>
         <div>
           {' '}
@@ -11,7 +11,7 @@ export default function page() {
         </div>
       </div>
 
-      <div className="min-h-screen bg-blue-50">
+      <div className="min-h-screen bg-blue-50 px-20 py-20">
         <h2>This is Mid Section</h2>
       </div>
     </div>
