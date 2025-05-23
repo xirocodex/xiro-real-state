@@ -1,4 +1,4 @@
-import { Camera, User } from 'lucide-react'
+import { User } from 'lucide-react'
 
 export default function page() {
   return (
