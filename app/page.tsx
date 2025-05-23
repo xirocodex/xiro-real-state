@@ -1,4 +1,4 @@
-import { Camera } from 'lucide-react'
+import { Camera, User } from 'lucide-react'
 
 export default function page() {
   return (
@@ -7,7 +7,7 @@ export default function page() {
         <div>Xiro-Real-State</div>
         <div>
           {' '}
-          <Camera />{' '}
+          <User />{' '}
         </div>
       </div>
 
