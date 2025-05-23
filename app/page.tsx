@@ -3,7 +3,7 @@ import { Camera } from 'lucide-react'
 export default function page() {
   return (
     <div>
-      <div className="flex bg-gray-400">
+      <div className="flex bg-gray-400 justify-end">
         <div>Xiro-Real-State</div>
         <div>
           {' '}
